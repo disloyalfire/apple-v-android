@@ -32,3 +32,21 @@ Design Resources for Android vs Apple Practice Assignment
 
 <p>Open link in a new tab/window</p>
 <p>Add a black border to the link on hover.</p>
+
+
+Make the Android vs Apple web page interactive by completing the following...
+
+If the user clicks the Android button:
+
+Change the 'Android vs Apple' image to the Android Logo in the images folder
+Change the 'Explore the Debate' link so that the link says 'Android Home'
+Change the 'Explore the Debate' link so that the background color is #a4c93b
+Change the 'Explore the Debate' link so that the href is now 'https://www.android.com/'
+Change the background color of the body to #a4c93b
+If the user clicks the Apple button:
+
+Change the 'Android vs Apple' image to the Apple Logo in the images folder
+Change the 'Explore the Debate' link so that the link says 'Apple Home'
+Change the 'Explore the Debate' link so that the background color is #b6bcca
+Change the 'Explore the Debate' link so that the href is now 'https://www.apple.com/'
+Change the background color of the body to #b6bcca

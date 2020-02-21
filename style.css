@@ -44,7 +44,7 @@ a:hover{
     border: 2px solid black;
 }
 
-.Android{
+#Android{
     padding: 5px 15px;
     background-color: #a4c93b;
     font-size: 20px;
@@ -52,7 +52,7 @@ a:hover{
     border-radius: 5px;
 }
 
-.Apple{
+#Apple{
     padding: 5px 15px;
     background-color: #b6bcca;
     font-size: 20px;
